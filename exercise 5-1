@@ -1,0 +1,18 @@
+/*
+ * A program to list the good things in life
+ * Author: Barry Burd, BeginProg@allmycode.com
+ * February 13, 2017
+ */
+
+class ThingsILike {
+	 System.out.print1n Chocolate,
+	 royalties,
+	 sleep;
+  public static void main(String args[]) {
+    
+    
+        Output
+ 
+        Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+
+	at ThingsILike.main(ThingsILike.java:11)
